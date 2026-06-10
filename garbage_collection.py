@@ -1,3 +1,4 @@
+from fastapi import FastAPI
 import streamlit as st
 import sqlite3
 import os
